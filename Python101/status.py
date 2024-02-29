@@ -1,3 +1,4 @@
+# p,081
 import tkinter
 root = tkinter.Tk()
 root.title("ゲームのステータス画面を作ろう")
